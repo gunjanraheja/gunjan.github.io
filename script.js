@@ -1,7 +1,7 @@
 const IMAGE_URL = "https://raw.githubusercontent.com/gunjanraheja/gunjan.github.io/master/pkl.jpg";
-const FRACTION_SIZE = 65;
-const ORIGIN_CIRCLE_RADIUS = 15;
-const PADDING = 70;
+const FRACTION_SIZE = 60;
+const ORIGIN_CIRCLE_RADIUS = 10;
+const PADDING = 40;
 
 let repulsionChangeDistance = 100;
 let pointSystem = null;
@@ -155,5 +155,5 @@ function draw() {
 }
 
 function mouseMoved() {
-  repulsionChangeDistance = 50;
+  repulsionChangeDistance = 30;
 }
