@@ -1,9 +1,9 @@
 const IMAGE_URL = "https://raw.githubusercontent.com/gunjanraheja/gunjan.github.io/master/pkl.jpg";
-const FRACTION_SIZE = 60;
-const ORIGIN_CIRCLE_RADIUS = 10;
-const PADDING = 40;
+const FRACTION_SIZE = 55;
+const ORIGIN_CIRCLE_RADIUS = 8;
+const PADDING = 20;
 
-let repulsionChangeDistance = 100;
+let repulsionChangeDistance = 50;
 let pointSystem = null;
 let targetImage = null;
 
@@ -146,7 +146,7 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+  background(255);
 
   repulsionChangeDistance = max(0, repulsionChangeDistance - 1);
 
