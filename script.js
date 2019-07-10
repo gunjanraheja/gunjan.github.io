@@ -1,4 +1,4 @@
-const IMAGE_URL = "https://raw.githubusercontent.com/gunjanraheja/particle_System_Test/master/pkl.png";
+const IMAGE_URL = "https://raw.githubusercontent.com/gunjanraheja/gunjan.github.io/master/pkl.jpg";
 const FRACTION_SIZE = 65;
 const ORIGIN_CIRCLE_RADIUS = 15;
 const PADDING = 70;
