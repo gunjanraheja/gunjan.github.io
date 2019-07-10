@@ -1,4 +1,4 @@
-const IMAGE_URL = "https://raw.githubusercontent.com/gunjanraheja/gunjan.github.io/master/pkl2.jpg";
+const IMAGE_URL = "https://raw.githubusercontent.com/gunjanraheja/gunjan.github.io/master/pkl.jpg";
 const FRACTION_SIZE = 55;
 const ORIGIN_CIRCLE_RADIUS = 8;
 const PADDING = 20;
