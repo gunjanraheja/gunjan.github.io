@@ -8,7 +8,7 @@ let pointSystem = null;
 let targetImage = null;
 
 // ==================================================
-// PopCircle クラス
+// PopCircle
 // ==================================================
 class PopCircle {
   constructor(originPosition, originRadius, originColor) {
